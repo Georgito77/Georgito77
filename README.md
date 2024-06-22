@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, I'm George Hany</h1>
-<h3 align="center">Computer Science and Artifical Intelligence Student</h3>
+
+<h1 align="center">Hi, I'm George Hany</h1>
+<h3 align="center">An Artifical Intelligence and Computer Science Student</h3>
+
+- 📫 How to reach me **georgehanyfouad@gmail.com**
+
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -7,6 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/george-hany-0a7472264" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/george-hany-0a7472264" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/george-hany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="george-hany" height="30" width="40" /></a>
 <a href="https://kaggle.com/georgehanyfouad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="georgehanyfouad" height="30" width="40" /></a>
+<a href="https://instagram.com/georgeehany" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="georgeehany" height="30" width="40" /></a>
 </p>
