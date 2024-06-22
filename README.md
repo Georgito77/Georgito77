@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm George Hany</h1>
-<h3 align="center">An Artifical Intelligence Student</h3>
+<h3 align="center">Computer Science and Artifical Intelligence Student</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
