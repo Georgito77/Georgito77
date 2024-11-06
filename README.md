@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm George Hany</h1>
-<h3 align="center">A Data Scientist and Artificial Intelligence developer from Egypt</h3>
+<h3 align="center">A Data Scientist and Artificial Intelligence Student from Egypt</h3>
 
 - 📫 How to reach me **georgehanyfouad@gmail.com**
 
